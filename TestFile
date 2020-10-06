@@ -1,0 +1,10 @@
+public class TestFile {
+  //Hello there
+  int age = 20;
+  String name = "Anthony de Leener"
+  
+  public TestFile() {
+    this.age = 20;
+    this.name = "Anthony de Leener"
+    }
+ }
