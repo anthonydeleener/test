@@ -7,4 +7,10 @@ public class TestFile {
     this.age = 20;
     this.name = "Anthony de Leener"
     }
+    
+    public String awesome(){
+    //this is some awesome codes
+    String awesome = 'awesome';
+    return awesome;
+    }
  }
